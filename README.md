@@ -71,6 +71,9 @@ Awesome Growth Hacking resources
 * [Blink: The Power of Thinking Without Thinking](http://www.amazon.com/Blink-The-Power-Thinking-Without/dp/0316010669/ref=sr_1_1?ie=UTF8&qid=1407249234&sr=8-1&keywords=blink&tag=zeef-20)
 * [Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising](http://www.amazon.com/Growth-Hacker-Marketing-Primer-Advertising-ebook/dp/B00EWPMUKM/ref=sr_1_1?ie=UTF8&qid=1406711248&sr=8-1&keywords=growth+hacking&tag=zeef-20)
 * [Persuasive Technology: Using Computers to Change What We Think and Do](http://www.amazon.com/Persuasive-Technology-Computers-Interactive-Technologies/dp/1558606432/ref=sr_1_1?s=books&ie=UTF8&qid=1331129541&sr=1-1&tag=zeef-20)
+* [Tribe of Mentors](https://www.amazon.com/Tribe-Mentors-Short-Advice-World-ebook/dp/B071KJ7PTB/ref=sr_1_1?ie=UTF8&qid=1513990420&sr=8-1&keywords=tim+ferriss+tribe)
+* [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0804139296)
+
 
 #### Growth Hackers 
 * [Growth Hackers](https://clarity.fm/growth-hacking)
